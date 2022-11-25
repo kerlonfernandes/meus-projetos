@@ -50,6 +50,8 @@ header{
     color: black;
     cursor: pointer;
     transition: 0.5s ease-in-out;
+    border-radius: 100%;
+
 }
 
 .logo:hover{
